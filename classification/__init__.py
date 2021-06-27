@@ -1,0 +1,2 @@
+from .least_squares import LeastSquaresClassifier
+from .logistic_regression import LogisticRegression
